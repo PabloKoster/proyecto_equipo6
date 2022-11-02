@@ -1,1 +1,1 @@
-# proyecto_grupo6
+# proyecto_equipo6
