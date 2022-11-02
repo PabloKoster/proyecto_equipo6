@@ -1,1 +1,1 @@
-# trabajo-info
+# proyecto_grupo6
