@@ -1,1 +1,104 @@
 
+
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="estilos.css">
+	</head>
+
+<body>
+
+
+  <ul class="down">
+      <li class="down"><a href="index.html">Home</a></li>
+ 
+      <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">Marcas</a>
+        <div class="dropdown-content">
+          <a href="audi.html">Audi</a>
+          <a href="bmw.html">BMV</a>
+          <a href="mercedes.html">Mercedes</a>
+          <a href="volvo.html">Volvo</a>
+          <a href="mini.html">Mini</a>
+        </div>
+      </li>
+      <li class="down"><a href="contactanos.html">Contáctanos</a></li>
+    </ul>
+
+
+
+
+
+
+    <section id="formulario" class="formulario">
+        <div class="container">
+            <div class="section-title text-center">
+
+                <h3 align="center"><font size="6">CONTÁCTANOS</font></h3>
+				
+				<h3 align="center"><font size="5">¿En qué podemos ayudarte?</font></h3>
+				
+				<h3 align="center">Si deseas ponerte en contacto con nosotros para consultar cualquier duda o solicitar información estamos a tu disposición:</h3>					
+            </div>
+			
+			
+			
+			
+			
+			
+			
+			
+				<div class="row">
+                <div class="col-12">
+					<div class="formulario">
+   
+	<form method="POST" action="/lead" >
+
+
+            <div class="col-md-12 mb-3">
+                <input type="text" class="form-control" name="nombre" placeholder="Nombre">
+            </div>
+        
+			<div class="col-md-12 mb-3">
+				<input type="text" class="form-control" name="apellidos" placeholder="Apellidos" value="">
+			</div>
+							
+            <div class="col-md-12 mb-3">
+                <input type="text" class="form-control" name="ubicacion" placeholder="Ubicación" value="">
+            </div>	
+							
+	        <div class="col-md-12 mb-3">
+                <input type="email" class="form-control" name="email" placeholder="Email" value="">
+            </div>						
+							
+            <div class="col-md-12 mb-3">
+                <input type="tel" class="form-control" name="telefono" placeholder="Teléfono" value="">
+            </div>
+                </div>
+				
+        <div class="mb-3">
+            <textarea class="form-control" name="mensaje" id="mensaje"
+                placeholder="¿En qué te podemos ayudar?"></textarea>
+        </div>
+	
+   <div class="container"></div>
+           </div>
+                <div class="conditions custom-control custom-checkbox mb-4">
+            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" required>
+			
+            <label class="form-check-label" for="defaultCheck1">
+                Acepto la <a  href="polticaprivacidad.html" target="_blank"> <u>Política de Privacidad</u></a> y el envío de
+                comunicaciones informativas.
+            </label>
+				</div>
+				
+        <div class="text-center"><button type="submit"
+                class="btn btn-primary btn-block">Solicitar información</button></div>
+    </form>
+
+</div>
+                </div>
+
+    </section>
+    </body>
+
+</html>
