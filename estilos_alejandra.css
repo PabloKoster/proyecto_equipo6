@@ -108,7 +108,7 @@ div {
 
 
 .formulario {
-    padding: 1rem;
+    padding: 2rem;
 }
 
 
@@ -119,11 +119,11 @@ div {
     border-radius: 0.7rem;
     display: block;
     font-size: .9rem;
-    height: calc(1.6em + 0.75rem + 3px);
+    height: calc(1.6em + 0.8rem + 3px);
     line-height: 1.6;
     padding: 0.38rem 0.8rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    width: 50%;
+    width: 70%;
 }
 
 
