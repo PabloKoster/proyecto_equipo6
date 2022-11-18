@@ -115,3 +115,27 @@ div.texto {
 	padding: 15px 15px;
 	font-size: 15
 }
+
+
+p.p1 {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 350%;
+  margin-bottom: 0%;
+}
+
+p.t1 {
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p.t2 {
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
