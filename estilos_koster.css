@@ -1,5 +1,4 @@
 
-
 ul.down {
   list-style-type: none;
   margin: 0;
@@ -72,9 +71,29 @@ h1 {
   right: 16px;
   font-size: 18px;
 }
-/* editar GRUPO6 a la foto de porche*/
+
 img.uno{
 	width:100%;
 }
 
-/*hace falta decidir los coches mas vendidos,  hace falta elaborar galeria de imagenes?, hace falta y hace falta poner abajo lo de desde tal año... utilizar https://www.hmcrespomercedes.es/ como inspo*/
+td.UNO{
+	color: white;
+	text-align: center;
+	font-family: Goudy Old Style;
+}
+
+td.DOS{
+	font-family: Goudy Old Style;
+}
+
+th.UNO{
+	color:white;
+	font-family:Goudy Old Style;
+}
+
+table.A{
+	background-color:black;
+	width:100%;
+}
+
+/*hace falta decidir los coches mas vendidos y hacer apartado, hace falta crear mas reglas css para reemplazar el html y meter presión para terminar todas las paginas web que no da tiempo*/
