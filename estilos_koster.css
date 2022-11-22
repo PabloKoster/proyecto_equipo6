@@ -1,3 +1,4 @@
+
 ul.down {
   list-style-type: none;
   margin: 0;
@@ -6,7 +7,7 @@ ul.down {
   background-color: #000;
   width: 100%;
   font-family: "Trirong", serif;
-  font-size:16
+  font-size:20
 }
 
 li.down {
@@ -21,7 +22,7 @@ li a, .dropbtn {
   display: inline-block;
   color: white;
   text-align: center;
-  padding: 10px 20px;
+  padding: 7px 20px;
   text-decoration: none;
 }
 
@@ -62,8 +63,6 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-/*Termina el menú*/
-
 
 .bottomright {
   position: fixed;
